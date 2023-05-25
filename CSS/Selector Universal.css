@@ -1,0 +1,12 @@
+* {
+    border: 1px solid grey;
+}
+
+p {
+  color: blue;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
